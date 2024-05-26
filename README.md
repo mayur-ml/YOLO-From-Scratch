@@ -6,6 +6,8 @@
 
 Welcome to the **YOLO-From-Scratch** repository! This project implements the YOLO (You Only Look Once) object detection algorithm from scratch, providing a deep dive into one of the most powerful and efficient real-time object detection models. Whether you’re a seasoned data scientist or a machine learning enthusiast, this project will offer valuable insights into the inner workings of YOLO.
 
+## **Note:** This project is still in progress. Stay tuned for updates!
+
 ## Table of Contents
 
 - [Features](#features)
