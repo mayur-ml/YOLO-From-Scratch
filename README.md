@@ -47,16 +47,28 @@ cd YOLO-From-Scratch
 ### project Structure
 ```bash
 
-YOLO-From-Scratch/
-├── assets/                   # Image assets for README and documentation
-├── config/                   # Configuration files
-│   └── yolo_config.json      # Example configuration file
-├── data/                     # Datasets and data loaders
-├── models/                   # Model architectures
-├── utils/                    # Utility scripts and helper functions
-│   └── iou.py                # IOU calculation utility
-├── train.py                  # Training script
-├── inference.py              # Inference script
-├── evaluate.py               # Evaluation script
-├── requirements.txt          # List of dependencies
-└── README.md                 # Project README
+.
+├── assets
+│   ├── yolo_image.png
+│   └── YOLO_logo.png
+├── __pycache__
+│   └── iou.cpython-311.pyc
+├── README.md
+├── test
+│   ├── iou_test.py
+│   ├── map_test.py
+│   └── nms_test.py
+├── utils
+│   ├── iou.py
+│   ├── map.py
+│   ├── nms.py
+│   ├── __pycache__
+│   │   ├── iou.cpython-311.pyc
+│   │   ├── map.cpython-311.pyc
+│   │   └── nms.cpython-311.pyc
+│   └── README.md
+└── YOLO_Paper
+    └── YOLO_Paper.pdf
+
+6 directories, 15 files
+
