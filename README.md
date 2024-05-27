@@ -1,5 +1,8 @@
 # YOLO-From-Scratch
 
+![YOLO](https://github.com/Mayur-ingole/YOLO-From-Scratch/blob/main/assets/YOLO_logo.png)
+
+
 ![YOLO](https://github.com/Mayur-ingole/YOLO-From-Scratch/blob/main/assets/yolo_image.png)
 
 ## Introduction
