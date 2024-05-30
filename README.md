@@ -11,6 +11,9 @@ Welcome to the **YOLO-From-Scratch** repository! This project implements the YOL
 
 ## **Note:** This project is still in progress. Stay tuned for updates!
 
+## Model Architecture
+![YOLO](https://github.com/Mayur-ingole/YOLO-From-Scratch/blob/main/assets/yolo_arch.png)
+
 ## Table of Contents
 
 - [Features](#features)
