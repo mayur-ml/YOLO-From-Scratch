@@ -49,11 +49,14 @@ cd YOLO-From-Scratch
 ```
 ### project Structure
 ```bash
-
 .
 ├── assets
+│   ├── yolo_arch.png
 │   ├── yolo_image.png
 │   └── YOLO_logo.png
+├── dataset.py
+├── loss.py
+├── model.py
 ├── __pycache__
 │   └── iou.cpython-311.pyc
 ├── README.md
@@ -61,6 +64,7 @@ cd YOLO-From-Scratch
 │   ├── iou_test.py
 │   ├── map_test.py
 │   └── nms_test.py
+├── train.py
 ├── utils
 │   ├── iou.py
 │   ├── map.py
@@ -70,8 +74,8 @@ cd YOLO-From-Scratch
 │   │   ├── map.cpython-311.pyc
 │   │   └── nms.cpython-311.pyc
 │   └── README.md
+├── utils.py
 └── YOLO_Paper
     └── YOLO_Paper.pdf
 
-6 directories, 15 files
-
+6 directories, 21 files
